@@ -328,7 +328,7 @@ GREEN
 ![GREEN](https://github.com/user-attachments/assets/1f8ccb33-381f-44ac-91fb-bf0063ce8ff5)
 
 BLUE
-![Uploading BLUE.jpg…]()
+![BLUE](https://github.com/user-attachments/assets/4be0c42d-45af-45de-a74f-54dba9aca4b6)
 
 YELLOW
 ![YELLOW](https://github.com/user-attachments/assets/f9aa4d5b-a665-4d14-a04e-7db238795347)
